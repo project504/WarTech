@@ -1,11 +1,11 @@
 WarTech - Pengembangan Sistem Pencatatan Penjualan Berbasis Web Untuk Warung Makan
 
 Nama Anggota Kelompok : 
-Howard Dominikov Oei - 535240014
-Mecky Alvin Tanuwidjaya - 535240157
-Rendy Matheu - 535240129
-Geraldine Raphael Sidauruk - 535240128
-Aldo Fernando - 535240029
+1. Howard Dominikov Oei - 535240014
+2. Mecky Alvin Tanuwidjaya - 535240157
+3. Rendy Matheu - 535240129
+4. Geraldine Raphael Sidauruk - 535240128
+5. Aldo Fernando - 535240029
 
 Latar Belakang
 Warung makan merupakan salah satu jenis usaha kuliner yang banyak ditemui di Indonesia. Sebagian besar warung makan masih menggunakan sistem pencatatan manual, yaitu menggunakan buku tulis atau kertas dalam mencatat setiap transaksi penjualan harian. Sistem ini dinilai kurang efisien karena rentan terjadi kesalahan pencatatan, sulit dilacak, dan tidak dapat menghasilkan laporan keuangan secara otomatis.
